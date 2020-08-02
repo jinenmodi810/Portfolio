@@ -1,0 +1,72 @@
+img{
+   width:35%;
+   padding:5%;
+   display:inline-block;
+    border-radius:30%;
+   height:10%;
+    
+ }
+h1{
+    display:block;
+    width:30%;
+    margin:0 auto;
+    padding:1.5%;
+}
+nav{
+   width:30%;
+   margin:0 auto;
+   diplay:block;
+  padding:1%;
+}
+a{
+   padding:1%;
+   margin:2%;
+}
+section{
+    display:inline-block;
+    width:50%;
+   font-family:Arial;
+    font-style:Oblique;
+    font-size:27px;
+    text-allign:left;
+   padding:1%;
+    margin:0.5%;
+}
+div img{
+     
+      width:20%;
+     margin:4%;
+    padding:0.1%;
+   
+}
+
+
+body {
+ background-image: url("wallpaper.jpg");
+ background-color: #cccccc;
+}
+div p{
+   display:inline-block;
+    font-family:Times;
+    font-size:23px;
+	paading:2%;
+	width:10%;
+}
+#skills p{
+      display:inline-block;
+      width:25%;
+     margin:2%;
+    padding:1%;
+   float:left;
+ }
+#skills{
+   width:100%;
+}
+
+section img{
+      width:25%;
+	heigth:60%;
+       display:inline-block;
+	   margin:0 auto;
+	   
+}
